@@ -8,3 +8,4 @@
 2. Usar el env.template para configurar las variables
 3. Levantar bd `docker-compose up -d`
 4. Iniciar app `npm run start:dev`
+5. Ejecutar seed `localhost:3000/api/seed`
